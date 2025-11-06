@@ -1,6 +1,7 @@
 # 🚀 Gensyn CodeAssist — CPU VPS Setup (Unofficial Guide by 0xAkey)
 
-![banner](https://github.com/user-attachments/assets/placeholder-banner-codeassist-cpu.jpg)
+![banner](banner.png)
+
 
 <p align="center">
   <a href="https://github.com/gensyn-ai/codeassist">
